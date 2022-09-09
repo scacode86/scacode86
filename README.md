@@ -5,13 +5,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **React, Redux,**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://scacode.com/](https://scacode. com/)
+- 👨‍💻 Todos mis proyectos están disponibles en (https://scacode. com/)
 
 - 💬 Pregúntame sobre **Html, Css, Js,React**
 
 - 📫 Cómo contactarme **contact@scacode.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com /en/scotty-vargas/](https://www.linkedin.com/en/scotty-vargas/)
+- 📄 Conoce mis experiencias [https://www.linkedin.com /en/scotty-vargas/]
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
