@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://scacode.com/](https://scacode.com/)
 
-- 💬 Ask me about **Html, Css, Js,React**
+- 💬 Ask me about **Html, Css, Flexbox, Css Grid, Bootstrap, Tailwindcss, Javascript, React**
 
 - 📫 How to reach me **contact@scacode.com**
 
