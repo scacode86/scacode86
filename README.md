@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scotty Vargas</h1>
-<h3 align="center">I am a Frontend passionate</h3>
+<h3 align="center">I am a passionate Frontend Web Developer</h3>
 
 - 🔭 I’m currently working on **Encuesta (React js)**
 
